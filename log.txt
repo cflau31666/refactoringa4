@@ -14,3 +14,13 @@ b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
 cbe4517 first commit
+
+25b32b4 (HEAD -> main) Task 2.1
+e13f220 (origin/main, origin/HEAD) Task 1.2
+bd57fbc Task 1.1
+2bf4164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
+ff50004 adding shortcut keys for Inline Variable (Re: Piazza question)
+b545ef2 clarifying extracted method names in README.md
+a0124c9 fixing starter file
+c0d93d8 adding starter files
+cbe4517 first commit
